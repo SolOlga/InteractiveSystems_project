@@ -15,6 +15,8 @@ In this project we use the idea of metro maps data representation from (Shahaf e
     ├── grece - Sheet1.csv            # data - ready metro edges       
     └── handmade_summary.docx         # 'golden' hand-made summary
 
+### Pretrained models
+Upload pretrained models from [PreSumm](https://github.com/nlpyang/PreSumm)
 
 ### Project report 
 Project report can be found [here](https://github.com/SolOlga/InteractiveSystems_project/blob/main/Interactive%20systems_project.pdf)
