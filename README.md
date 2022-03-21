@@ -8,16 +8,12 @@ In this project we use the idea of metro maps data representation from (Shahaf e
 
 
     .
-    ├── current_notebooks                   # up-to-date jupiter notebooks with the code
-    ├── data                    
-    ├── doc                                 # documents
-    ├── gephi_graphs                        # ready gephi graphs
-    ├── images                    
-    ├── networkx_graphs                     # graphs from networkx that are ready for gephi visualization
-    ├── old_notebooks
-    ├── Complex networks - project.pdf      # project report
-    ├── README.md
-    └── requierments.txt
+    ├── Interactive systems_project.pdf  # project report                 
+    ├── ProjectIIS.ipynb               # up-to-date jupiter notebook with the code
+    ├── README.md                     
+    ├── grece - Sheet1.csv            # data - metro map nodes     
+    ├── grece - Sheet1.csv            # data - ready metro edges       
+    └── handmade_summary.docx         # 'golden' hand-made summary
 
 
 ### Project report 
