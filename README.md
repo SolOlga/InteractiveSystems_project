@@ -21,4 +21,4 @@ In this project we use the idea of metro maps data representation from (Shahaf e
 
 
 ### Project report 
-Project report can be found [here](https://github.com/SolOlga/ComplexNetworks_project/blob/master/Complex%20networks%20-%20project.pdf)
+Project report can be found [here](https://github.com/SolOlga/InteractiveSystems_project/blob/main/Interactive%20systems_project.pdf)
